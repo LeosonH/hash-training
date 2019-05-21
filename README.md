@@ -1,2 +1,4 @@
-# Materials for session on hashing datasets
+# Hashing Datasets
+
+Materials for session on hashing datasets.
 
