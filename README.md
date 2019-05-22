@@ -1,4 +1,4 @@
-# Hashing Datasets
+# Hashing and Anonymizing Datasets
 
 Materials for session on hashing datasets.
 
